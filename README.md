@@ -1,4 +1,6 @@
-![](https://github.com/justynleung/justynleung/blob/main/asset/yoda-star-wars.gif)
+<p align="center">
+  <img src="(https://github.com/justynleung/justynleung/blob/main/asset/yoda-star-wars.gif)" alt="animated" />
+</p>
 <h1>Nice to see you around!👋</h1>  <br>
 Continuous Learning is the key to success.<br>
 I am Justyn, a self-taught programmer since 2022.<br><br>
