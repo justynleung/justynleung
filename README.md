@@ -1,9 +1,12 @@
 ![](https://github.com/justynleung/justynleung/blob/main/asset/yoda-star-wars.gif)
 <h1>Nice to see you around!👋</h1>  <br>
 Continuous Learning is the key to success.<br>
-I am Justyn, a self-taught programmer since 2022.<br><br>
+I am Justyn, a self-taught programmer, who are passionate is to build user-friendly applications with real-world application. With an exposure to a wide range of technologies such as ReactJS, NextJS, Tailwind CSS, I possess the crucial qualification of a software engineer. Throughout my self-learning journey, I have been constantly evolving and adapting to newest tech stack, while consolidating my fundamental knowledge of vanilla JS. One example is the REST API I have build with vanilla JS.<br><br>
+
+Welcome to talk to me at justynleung.work@gmail.com. Please also check my portfoliio website on <a href='https://justynleung.github.io/'>https://justynleung.github.io/</a>.
 
 I am currently building applications with React.js, Next.js, and Tailwind CSS.
+
 <!--
 **justynleung/justynleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
