@@ -1,7 +1,7 @@
 ![](https://github.com/justynleung/justynleung/blob/main/asset/yoda-star-wars.gif)
 <h1>Nice to see you around!👋</h1>  <br>
 Continuous Learning is the key to success. <br><br>
-I am Justyn, a self-taught programmer, who are passionate is to build user-friendly applications with real-world application. With an exposure to a wide range of technologies such as ReactJS, NextJS, Tailwind CSS, I possess the crucial qualification of a software engineer. Throughout my self-learning journey, I have been constantly evolving and adapting to newest tech stack, while consolidating my fundamental knowledge of vanilla JS. One example is the REST API I have build with vanilla JS.<br><br>
+I am Justyn, a self-taught programmer who are passionate is to build user-friendly applications with real-world implementation. With an exposure to a wide range of technologies such as ReactJS, NextJS, Tailwind CSS, I possess the crucial qualification of a software engineer. Throughout my journey, I have been constantly evolving and adapting to newest tech stack, while consolidating my fundamental knowledge.<br><br>
 
 Welcome to talk to me at justynleung.work@gmail.com. You can know more about me at <a href='https://justynleung.github.io/'>Protfolio website</a> and <a href='www.linkedin.com/in/leungchoshing'>Linkedin</a>.
 
