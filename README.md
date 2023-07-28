@@ -5,8 +5,6 @@ I am Justyn, a self-taught programmer, who are passionate is to build user-frien
 
 Welcome to talk to me at justynleung.work@gmail.com. You can know more about me at <a href='https://justynleung.github.io/'>Protfolio website/</a> and <a href='www.linkedin.com/in/leungchoshing'>Linkedin</a>
 
-'.
-
 I am currently building applications with React.js, Next.js, and Tailwind CSS.
 
 <!--
