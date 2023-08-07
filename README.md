@@ -5,7 +5,7 @@
 
 📫 Welcome to talk to me at justynleung.work@gmail.com. You can know more about me at <a href='https://justynleung.github.io/'>Protfolio website</a> and <a href='www.linkedin.com/in/leungchoshing'>Linkedin</a>.
 
-🔭 I am currently building applications with React.js, Next.js, and Tailwind CSS.
+🔭 I am currently building applications with React.js, Next.js, and Tailwind CSS. <br><br>
 
 ![My Skills](https://skills.thijs.gg/icons?i=react,ts,mongodb,nextjs,nodejs,tailwind,js,git,html,css)
 
