@@ -7,7 +7,8 @@ Welcome to talk to me at justynleung.work@gmail.com. You can know more about me 
 
 I am currently building applications with React.js, Next.js, and Tailwind CSS.
 
-
+Tech stacks
+[![My Skills](https://skills.thijs.gg/icons?i=react,ts,mongodb,nextjs,nodejs,tailwind,js,git,html,css)](https://skills.thijs.gg)
 <!--
 **justynleung/justynleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
