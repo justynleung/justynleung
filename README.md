@@ -1,5 +1,5 @@
 ![](https://github.com/justynleung/justynleung/blob/main/asset/yoda-star-wars.gif)
-<h1>Nice to see you around!👋</h1>  <br>
+# Nice to see you around!👋</h1>  <br>
 <h3>
 Continuous Learning is the key to success. <br><br>
 I am Justyn, a self-taught programmer who are passionate is to build user-friendly applications with real-world implementation. With an exposure to a wide range of technologies such as ReactJS, NextJS, Tailwind CSS, I possess the crucial qualification of a software engineer. Throughout my journey, I have been constantly evolving and adapting to newest tech stack, while consolidating my fundamental knowledge.<br><br>
