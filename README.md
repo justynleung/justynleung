@@ -7,7 +7,7 @@ Welcome to talk to me at justynleung.work@gmail.com. You can know more about me 
 
 I am currently building applications with React.js, Next.js, and Tailwind CSS.
 
-Tech stacks <br><br>
+## Tech stacks <br><br>
 ![My Skills](https://skills.thijs.gg/icons?i=react,ts,mongodb,nextjs,nodejs,tailwind,js,git,html,css)
 
 <!--
